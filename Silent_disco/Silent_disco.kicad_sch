@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "4af49fe6-1b31-410d-a4f6-8a006077b266")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 139.7 25.4)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 251 62 209 1.0000)
+		)
+		(uuid "89b335e4-deb8-44bf-bba8-15bcda0b3e9d")
+		(property "Sheetname" "Amplifier"
+			(at 139.7 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "amplifier.kicad_sch"
+			(at 139.7 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Silent_disco"
+				(path "/4af49fe6-1b31-410d-a4f6-8a006077b266"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 25.4)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 86 190 48 1.0000)
+		)
+		(uuid "cb2cb63d-9490-4ab5-b4aa-6b595f412c48")
+		(property "Sheetname" "ESP32"
+			(at 88.9 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32.kicad_sch"
+			(at 88.9 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Silent_disco"
+				(path "/4af49fe6-1b31-410d-a4f6-8a006077b266"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 25.4)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 228 159 5 1.0000)
+		)
+		(uuid "ff966478-3888-492d-8882-5d8506252930")
+		(property "Sheetname" "Power"
+			(at 38.1 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 38.1 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Silent_disco"
+				(path "/4af49fe6-1b31-410d-a4f6-8a006077b266"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
