@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HT97180")(type "KiCad")(uri "${KIPRJMOD}/external_prints/HT97180/HT97180.kicad_sym")(options "")(descr ""))
+)
