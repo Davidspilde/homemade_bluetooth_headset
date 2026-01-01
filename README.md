@@ -9,3 +9,4 @@ kicad and esp32 files
 4. DAC = AD5664RBCPZ-3R2
 5. AMP = HT97180
 6. Speakers = 32Ω
+7. USB-to-UART bridge = cp2104(kan endres)

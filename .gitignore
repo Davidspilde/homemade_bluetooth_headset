@@ -38,3 +38,6 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# External 3D models cache
+**/external_prints
